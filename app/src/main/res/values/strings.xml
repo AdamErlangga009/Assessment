@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HitungBalok</string>
+    <string name="Panjang">panjang</string>
+    <string name="Lebar">lebar</string>
+    <string name="Tinggi">tinggi</string>
+    <string name="Hitung">Hitung</string>
+    <string name="Hasil">hasil</string>
+    <string name="jadi">Hasil %1$.2f </string>
+    <string name="panjang_kosong">Panjang tidak boleh kosong.</string>
+    <string name="lebar_kosong">Lebar tidak boleh kosong.</string>
+    <string name="tinggi_kosong">Tinggi tidak boleh kosong.</string>
+
+</resources>
